@@ -1,3 +1,5 @@
+# 별 그리기
+
 import turtle
 
 t = turtle.Turtle()

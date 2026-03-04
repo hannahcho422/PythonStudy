@@ -1,3 +1,5 @@
+# 팩토리얼 계산
+
 integer = int(input("Enter an integer: "))
 
 i = 1

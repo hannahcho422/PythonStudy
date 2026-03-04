@@ -1,3 +1,5 @@
+# 두 정수의 합
+
 num1 = int(input("Enter the first integer: "))
 
 while num1 != 0 :
