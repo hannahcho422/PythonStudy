@@ -1,3 +1,5 @@
+# 합계 구하기
+
 stop = int(input("Enter the upper bound of the summation: "))
 
 sum = 0
